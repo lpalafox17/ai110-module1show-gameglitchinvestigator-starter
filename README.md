@@ -26,13 +26,16 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+      the game is a number guesser, you guess a number and a hint will tell you if you need to go higer or lower.
 - [ ] Detail which bugs you found.
+      The game would not restart correctly or display the correct number of attempts left. The hint would not be correct at the begining , it will give the wrong hint at times. 
 - [ ] Explain what fixes you applied.
+      I fixed the logic to give the hint correctly based on the number that was entered. I also fixed the correct number of attempts evertyime the game was restarted. 
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
-
+- [ ] 
+      
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
