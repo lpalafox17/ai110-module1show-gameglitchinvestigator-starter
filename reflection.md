@@ -45,7 +45,7 @@ AI helped propose the regression test and suggested likely root causes, I verifi
 - In your own words, explain why the secret number kept changing in the original app.
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
 - What change did you make that finally gave the game a stable secret number?
-The secret number kept changing because streamlit would rerun the the script evertime the user would interact with the app. The number was constantly being replaced instead of staying the same. The way I would explain it to a friend is Streamlit works like a script that restarts evertime something happens on the app. The change I made was that I stored the secret number in session state instead of generating it everytime. 
+- The secret number kept changing because streamlit would rerun the the script evertime the user would interact with the app. The number was constantly being replaced instead of staying the same. The way I would explain it to a friend is Streamlit works like a script that restarts evertime something happens on the app. The change I made was that I stored the secret number in session state instead of generating it everytime. 
 
 ---
 
@@ -55,4 +55,4 @@ The secret number kept changing because streamlit would rerun the the script eve
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 - What is one thing you would do differently next time you work with AI on a coding task?
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
-One habit I would like to reuse is to test frequently after making changes. Running the app evertime helped me quickly identify what was working and what was causing problems. One thing I would do differenty is give clearer instructions and give more context about the problems that need to be solved. This project showed me that Ai generated code can be helpful but at the same time it can still be giving wrong answers so it must be reviwed and also understood by the developer. 
+- One habit I would like to reuse is to test frequently after making changes. Running the app evertime helped me quickly identify what was working and what was causing problems. One thing I would do differenty is give clearer instructions and give more context about the problems that need to be solved. This project showed me that Ai generated code can be helpful but at the same time it can still be giving wrong answers so it must be reviwed and also understood by the developer. 
