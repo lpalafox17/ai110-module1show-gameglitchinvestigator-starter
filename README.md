@@ -34,7 +34,10 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-- [ ] ![Alt text](demoscreenshot.png) 
+- [ ] ![Alt text](demoscreenshot.png)
+
+   -challenge 1 optional test screenshot
+- [ ] ![Alt text](testscreenshot.png) 
       
 ## 🚀 Stretch Features
 
